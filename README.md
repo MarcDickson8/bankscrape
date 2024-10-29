@@ -22,7 +22,7 @@ This program scrapes bank transaction information from [PN Bank](https://digital
 
     dotnet run <your-username> <your-password>
 
-Replace <your-username> and <your-password> with your actual bank credentials.
+Replace your-username and your-password with your bank credentials.
 
 The application will log in to your bank account, scrape your transaction data, and display it in the GUI.
 
